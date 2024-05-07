@@ -1,27 +1,29 @@
-# HWO1COURSEAPP
+✅**Project Summary**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+The project involves creating a proof-of-concept application using Angular and .Net 6 Web API to determine if software development productivity improves using the Angular framework. The application allows users to perform CRUD operations on courses stored in a SQL Server database. The back end is developed using a .Net 7 API, and the front end is developed using Angular. Key features include a Course Listing page, Edit Course page, and Add Course page, all accessible via Angular routing. The application aims to showcase the benefits of using Angular for front-end development and its integration with a .Net back end.
 
-## Development server
+✅**ETL Process**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The ETL (Extract, Transform, Load) process involves extracting data from the SQL Server database, transforming it into a format suitable for the front end, and loading it into the Angular application for display. This process ensures that users can interact with the data seamlessly.
 
-## Code scaffolding
+👨‍💻**Skills Developed**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-Proficiency in Angular and .Net 6 Web API development
 
-## Build
+-CRUD operations implementation using Angular and .Net
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-Front-end and back-end integration
 
-## Running unit tests
+-Angular routing implementation for navigation between pages
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-SQL Server database management and interaction
 
-## Running end-to-end tests
+✅**Conclusion**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+By developing this application, I aimed to demonstrate the benefits of using the Angular framework for software development productivity. The application showcases how Angular can be used to create a user-friendly interface for interacting with a .Net API, highlighting the efficiency and effectiveness of Angular in modern web application development.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
